@@ -1,4 +1,4 @@
 # first-things-first
 
 ## Ready to go!
-<img src="<iframe src="https://giphy.com/embed/ftlDx9t9aMitzCdWwY" width="480" height="240" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/theshadowsfx-thumbs-up-what-we-do-in-the-shadows-ftlDx9t9aMitzCdWwY">via GIPHY</a></p>">
+<img src="https://media.giphy.com/media/ftlDx9t9aMitzCdWwY/giphy.gif?cid=ecf05e47k8e49hr8i99tpqjsltvmm0ga51gjrfinsqmkqv3b&rid=giphy.gif&ct=g">
